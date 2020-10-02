@@ -1,3 +1,3 @@
 Sup
 
-Yo
+Delete "Yo is gone"
